@@ -15,7 +15,7 @@ k8sgpt is a tool for scanning your kubernetes clusters, diagnosing and triaging 
 * [community](https://github.com/k8sgpt-ai/community) - Community-related information
 
 ## Thanks to our contributors!
-<a href="https://github.com/k8sgpt-ai/graphs/contributors">
+<a href="https://github.com/k8sgpt-ai/k8sgpt/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=k8sgpt-ai/k8sgpt" />
 </a>
 
