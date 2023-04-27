@@ -25,10 +25,8 @@ body:
     attributes:
       label: Is this feature request related to a problem?
       options:
-        - label: Yes
-          value: yes
-        - label: No
-          value: no
+        - "Yes"
+        - "No"
   - type: textarea
     id: problem_description
     attributes:
