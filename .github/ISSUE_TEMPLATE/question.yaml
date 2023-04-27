@@ -1,5 +1,5 @@
-name: Feature Request
-description: Suggest and idea for this project
+name: Question / Bug Report
+description: Create a report to help us improve
 title: "[Question]: <Question Title>"
 labels: ["type:question"]
 assignees:
